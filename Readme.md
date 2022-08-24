@@ -10,6 +10,7 @@ This is a solution that plays sound when the key on the screen is pressed
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
+- [Live Page](#Live page)
 
 
 ## Overview
@@ -44,4 +45,5 @@ I learnt the the use of styling, Event handling, Document Object Model in Javasc
 
 ## Author
 - Github - [Aisha Idowu](https://github.com/AishaIdowu)
-
+## Live page
+[Live](https://aishaidowu.github.io/Drum-kit/)
