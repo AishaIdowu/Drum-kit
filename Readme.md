@@ -10,7 +10,7 @@ This is a solution that plays sound when the key on the screen is pressed
   - [Built with](#built-with)
   - [Continued development](#continued-development)
 - [Author](#author)
-- [Live Page](#Live page)
+- [Live](#live-page)
 
 
 ## Overview
